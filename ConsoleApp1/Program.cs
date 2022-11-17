@@ -9,6 +9,7 @@ namespace ConsoleApp1
             
             fonction();
             fonction();
+            fonction();
         }
 
         public static void fonction()
