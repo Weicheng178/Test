@@ -7,7 +7,6 @@ namespace ConsoleApp1
         public static void Main(string[] args)
         {
             fonction();
-            string line = Console.ReadLine();
         }
 
         public static void fonction()
