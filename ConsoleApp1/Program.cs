@@ -10,6 +10,8 @@ namespace ConsoleApp1
             Console.WriteLine(2);
             Console.WriteLine(1);
             fonction();
+            fonction();
+            fonction();
         }
 
         public static void fonction()
