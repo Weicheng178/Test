@@ -13,11 +13,7 @@ namespace ConsoleApp1
         {
             //Fonction2();
 
-            Vuemodel vuemodel = new Vuemodel();
-            vuemodel.SaisieText();
-            vuemodel.CheckText();
-            
-            string line = Console.ReadLine();
+         
 
         }
 
