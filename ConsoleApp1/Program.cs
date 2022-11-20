@@ -16,9 +16,6 @@ namespace ConsoleApp1
             Vuemodel vuemodel = new Vuemodel();
             vuemodel.SaisieText();
             vuemodel.CheckText();
-            vuemodel.CheckText();
-
-            string line = Console.ReadLine();
 
         }
 
