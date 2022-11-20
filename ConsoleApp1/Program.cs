@@ -12,7 +12,9 @@ namespace ConsoleApp1
         public static void Main(string[] args)
         {
             //Fonction2();
-
+            Console.WriteLine("please enter a caracter line: ");
+            //user enter what he wants
+            string line = Console.ReadLine();
          
 
         }
