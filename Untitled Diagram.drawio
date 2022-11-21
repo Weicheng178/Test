@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T15:57:59.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Ph3ajB3_lq-rsa8Xvt1h" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T16:10:29.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Tf07jFOHv0fVsdI4XLIz" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="670" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,6 @@
             <mxPoint x="49.92000000000007" y="852" as="sourcePoint" />
             <mxPoint x="-139.9133333333334" y="852" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sGXvdLq_XoUKNio_A1aQ-138" value="select shutdown application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="sGXvdLq_XoUKNio_A1aQ-8">
-          <mxGeometry x="-132" y="1430" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGXvdLq_XoUKNio_A1aQ-145" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="sGXvdLq_XoUKNio_A1aQ-8">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -503,6 +500,36 @@
         </mxCell>
         <mxCell id="sGXvdLq_XoUKNio_A1aQ-72" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="12" y="850" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGXvdLq_XoUKNio_A1aQ-138" value="select shutdown application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2050" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGXvdLq_XoUKNio_A1aQ-291" value="Select create log journalier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="98.5" y="1683" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGXvdLq_XoUKNio_A1aQ-292" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="89.5" y="1713" as="sourcePoint" />
+            <mxPoint x="279.5" y="1713" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGXvdLq_XoUKNio_A1aQ-293" value="Ask interface create log journalier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="1703" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sGXvdLq_XoUKNio_A1aQ-294" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="279.5" y="1733" as="sourcePoint" />
+            <mxPoint x="469.5" y="1733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGXvdLq_XoUKNio_A1aQ-295" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="469.99" y="1755" as="sourcePoint" />
+            <mxPoint x="659.99" y="1755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGXvdLq_XoUKNio_A1aQ-296" value="Verify target&amp;nbsp;folder exists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="492.40999999999997" y="1725" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
