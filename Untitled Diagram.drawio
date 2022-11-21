@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T20:32:56.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="L1bl4vMGwaVH2kulSh6M" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T20:52:22.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="u9Hy1GIVSqg3NrspsgTa" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="860" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1218" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,22 +183,22 @@
           <mxGeometry x="543.5" y="163" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vB3oa_qT5mKGnojGgwLK-6" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=35;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="41.5" y="213" width="90.5" height="177" as="geometry" />
+          <mxGeometry x="30" y="213" width="700" height="177" as="geometry" />
         </mxCell>
         <mxCell id="vB3oa_qT5mKGnojGgwLK-7" value="Loading screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="345.99999999999994" y="394" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vB3oa_qT5mKGnojGgwLK-17" value="[if folder is &lt;br&gt;inexistent]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="33.5" y="246" width="80" height="40" as="geometry" />
+          <mxGeometry x="22" y="247" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vB3oa_qT5mKGnojGgwLK-18" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="33.5" y="339" width="50" height="30" as="geometry" />
+          <mxGeometry x="25" y="339" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vB3oa_qT5mKGnojGgwLK-19" value="Inexistent folder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="549.0000000000001" y="215.16999999999996" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vB3oa_qT5mKGnojGgwLK-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#788AA3;dashed=1;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="49" y="339" width="651" height="8" as="geometry" />
+          <mxGeometry x="30" y="339" width="700" height="8" as="geometry" />
         </mxCell>
         <mxCell id="vB3oa_qT5mKGnojGgwLK-25" value="Set folder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="569.42" y="247" width="70" height="30" as="geometry" />
